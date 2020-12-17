@@ -8,18 +8,21 @@ Active records exercise
 - Ruby on Rails
 - Visual Studio Code
 
-
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-- Clone all the files and branches onto your local machine
-- run bundle install to install all the required ruby gems
-
 ### Prerequisites
 
 - Ruby should be installed
 - A terminal should be installed
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+- Follow this link to the repo: https://github.com/Misori-simon/micro_reddit
+- Clone all the files and branches onto your local machine
+- Open the folder using a suitable editor such as visual studio code
+- Open a terminal and navigate to the cloned folder using the 'cd' command
+- run bundle install to install all the required ruby gems
+- To see the application in action enter the 'rails console' command. Here you can play around with creating new users, posts or comments
+
 
 ## Authors
 
@@ -39,6 +42,14 @@ To get a local copy up and running follow these simple example steps.
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Misori-simon/micro_reddit/issues).
+
+## Acknowledgments and licenses
+
+Show your support Give a ⭐️ if you like this project!
+
+Acknowledgments Hat tip to anyone whose code was used Inspiration etc
+
+📝 License This is a collaborative project between two microverse students. All rights are reserved for Nick and Simon.
 
 ## Show your support
 
